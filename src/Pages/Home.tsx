@@ -11,8 +11,8 @@ const Home = () => {
           </div>
           <div className='w-full h-1/2 md:w-1/2 md:h-full flex items-center justify-center'>
             <div className=' max-w-[90%] flex flex-col gap-3'>
-              <h1 className='text-2xl font-bold md:text-7xl'>Turning Vision into Reality with Code And Design.</h1>
-              <p className='text-md md:text-[25px]'>As a skilled full stack developer. I am dedicated to turning ideas into inovative web applications.</p>
+              <h1 className='text-2xl font-bold md:text-6xl'>Turning Vision into Reality with Code And Design.</h1>
+              <p className='text-md md:text-[22px]'>As a skilled full stack developer. I am dedicated to turning ideas into inovative web applications.</p>
               {/* <Link to="/contact" className='w-fit font-semibold p-3 border-2 border-black rounded-lg hover:bg-black hover:text-white md:text-xl md:w-fit'>Contact</Link> */}
             </div>
           </div>
